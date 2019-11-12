@@ -1,0 +1,34 @@
+
+h1
+{
+    background: red; 
+}
+
+
+#app
+{
+    background: red;
+    display: flex;
+    flex-flow: row wrap; 
+}
+
+#recipe
+{
+    background: red;
+
+}
+
+#thumb
+{
+    background: red;
+}
+
+#recipeTitle
+{
+    background: red;
+}
+
+#ingredients
+{
+    background: red;
+}
